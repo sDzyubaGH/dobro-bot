@@ -1,0 +1,8 @@
+MySQL
+
+https://server160.hosting.reg.ru/phpmyadmin/db_structure.php?server=1&db=u0835005_botdb
+
+Server: 31.31.196.162
+Login: u0835005_admin
+Pass: Cocos2003
+DB:  u0835005_botDB
